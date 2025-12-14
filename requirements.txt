@@ -1,0 +1,6 @@
+torch
+TTS
+flask
+scipy
+llama-cpp-python
+flask-cors
