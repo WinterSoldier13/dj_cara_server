@@ -4,3 +4,4 @@ flask
 scipy
 llama-cpp-python
 flask-cors
+huggingface_hub
